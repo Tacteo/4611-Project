@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: d1af4e178e5008a4b9a18a85ce0b1c88
+timeCreated: 1431336665
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Cube
+    100006: Foot_l
+    100008: Foot_r
+    100010: Hand1_l
+    100012: Hand1_r
+    100014: Hand2_l
+    100016: Hand2_r
+    100018: Hand3_l
+    100020: Hand3_r
+    100022: Hand4_l
+    100024: Hand4_r
+    100026: Hand5_l
+    100028: Hand5_r
+    100030: Head
+    100032: Hip_l
+    100034: Hip_r
+    100036: LowerArm_l
+    100038: LowerArm_r
+    100040: LowerIndex_l
+    100042: LowerIndex_r
+    100044: LowerLeg_l
+    100046: LowerLeg_r
+    100048: LowerMiddle_l
+    100050: LowerMiddle_r
+    100052: LowerPinkie_l
+    100054: LowerPinkie_r
+    100056: LowerRing_l
+    100058: LowerRing_r
+    100060: LowerSpine
+    100062: LowerThumb_l
+    100064: LowerThumb_r
+    100066: MiddleSpine
+    100068: Neck
+    100070: Shoulder_l
+    100072: Shoulder_r
+    100074: UpperArm_l
+    100076: UpperArm_r
+    100078: UpperIndex_l
+    100080: UpperIndex_r
+    100082: UpperLeg_l
+    100084: UpperLeg_r
+    100086: UpperMiddle_l
+    100088: UpperMiddle_r
+    100090: UpperPinkie_l
+    100092: UpperPinkie_r
+    100094: UpperRing_l
+    100096: UpperRing_r
+    100098: UpperSpine
+    100100: UpperThumb_l
+    100102: UpperThumb_r
+    400000: //RootNode
+    400002: Armature
+    400004: Cube
+    400006: Foot_l
+    400008: Foot_r
+    400010: Hand1_l
+    400012: Hand1_r
+    400014: Hand2_l
+    400016: Hand2_r
+    400018: Hand3_l
+    400020: Hand3_r
+    400022: Hand4_l
+    400024: Hand4_r
+    400026: Hand5_l
+    400028: Hand5_r
+    400030: Head
+    400032: Hip_l
+    400034: Hip_r
+    400036: LowerArm_l
+    400038: LowerArm_r
+    400040: LowerIndex_l
+    400042: LowerIndex_r
+    400044: LowerLeg_l
+    400046: LowerLeg_r
+    400048: LowerMiddle_l
+    400050: LowerMiddle_r
+    400052: LowerPinkie_l
+    400054: LowerPinkie_r
+    400056: LowerRing_l
+    400058: LowerRing_r
+    400060: LowerSpine
+    400062: LowerThumb_l
+    400064: LowerThumb_r
+    400066: MiddleSpine
+    400068: Neck
+    400070: Shoulder_l
+    400072: Shoulder_r
+    400074: UpperArm_l
+    400076: UpperArm_r
+    400078: UpperIndex_l
+    400080: UpperIndex_r
+    400082: UpperLeg_l
+    400084: UpperLeg_r
+    400086: UpperMiddle_l
+    400088: UpperMiddle_r
+    400090: UpperPinkie_l
+    400092: UpperPinkie_r
+    400094: UpperRing_l
+    400096: UpperRing_r
+    400098: UpperSpine
+    400100: UpperThumb_l
+    400102: UpperThumb_r
+    4300000: Cube
+    7400000: Default Take
+    7400002: Default
+    7400004: FightingStanceAnimation
+    7400006: Idle
+    7400008: RunAnimation
+    7400010: SideStepLeftAnimation
+    7400012: SideStepRightAnimation
+    7400014: SwingDownAnimation
+    7400016: SwingLeftAnimation
+    7400018: SwingRightAnimation
+    7400020: SwingUpAnimation
+    7400022: ThrustAnimation
+    7400024: WalkAnimation
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
